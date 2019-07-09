@@ -5,3 +5,4 @@ Malaria-Cell_Image_usingKeras.ipynb
 *.csv
 cell_images/
 .ipynb_checkpoints/
+saved_model/
