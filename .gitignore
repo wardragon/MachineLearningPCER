@@ -1,9 +1,5 @@
 esempio matplotlib.ipynb 
 Malaria-Cell_Image_usingKeras.ipynb 
-*.h5
-*.mod
-*.csv
 cell_images/
 .ipynb_checkpoints/
-saved_model/
 Copy/
